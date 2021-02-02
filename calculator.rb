@@ -1,5 +1,5 @@
-first_number = get_variable_from_file
-second_number = get_variable_from_file
+first_number = 2
+second_number = 6
 
 def sum
 first_number + second_number
